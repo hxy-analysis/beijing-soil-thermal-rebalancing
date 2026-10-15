@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw and third-party data
+data/raw/**
+
+# Keep documentation for raw-data requirements
+!data/raw/README.md
+
+# Temporary validation files
+*_TEST.*
+*_BACKUP.*
+*_backup.*
+
+# Temporary files
+*.tmp
+*.temp
+~$*
