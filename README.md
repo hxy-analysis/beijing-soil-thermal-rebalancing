@@ -3,7 +3,7 @@
 This repository contains the analysis code and analysis-ready derived data
 associated with the manuscript:
 
-**Depth-Dependent Rebalancing of Conditional Contributions from
+**Depth-Dependent Reorganization of Conditional Contributions from
 Near-Surface Air-Temperature Time-Series Information and Antecedent Soil
 Thermal State**
 
